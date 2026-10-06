@@ -1,0 +1,6 @@
+{
+  "name": "BMW Campaign Central",
+  "description": "Corporate Defect Mitigation & Technical Recall Management for BMW Group Quality Operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
